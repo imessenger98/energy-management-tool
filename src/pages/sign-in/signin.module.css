@@ -1,0 +1,48 @@
+/* index.css */
+body,html {
+    margin:0;
+    padding:0;
+   }
+   
+.row {
+    display: flex;
+    height:100vh;
+  }
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 50%;
+    height: 100%;
+}
+.responsiveImg{
+   width: 100%;
+   height: auto;
+}
+/* mediaQueries */
+  @media (max-width: 1000px) {                  
+     .hideOnMobile {
+        display: none;
+     }
+  }
+/* index.css */
+
+/* signIn-group.js */
+.h1heading{
+   padding: 0px;
+   margin: 0px;
+   color: #38385E;
+}
+h3{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding: 0;
+}
+p{
+   text-align: center;
+}
+
+Link {
+   margin: 5px;
+}

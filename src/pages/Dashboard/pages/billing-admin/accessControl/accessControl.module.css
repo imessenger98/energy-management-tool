@@ -1,0 +1,42 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    margin-top: 20px;
+}
+
+p{
+    font-weight: 600;
+    font-size: small;
+}
+
+h1 {
+    color:#38385E;
+    margin: 0;
+    font-size: x-large;
+}
+
+.textAlign {
+    text-align: center;
+}
+
+.submitButton{
+    margin-top: 20px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    body{
+        height: 100%;
+    }
+
+    .parent {
+        display: flex !important;
+        flex-direction: column !important;
+        place-items: center !important;
+        justify-content: center !important;
+        align-items: center !important;
+        height:100%;
+    }
+  }

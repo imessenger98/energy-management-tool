@@ -1,0 +1,44 @@
+.sideButton {
+    display: flex;
+    margin-top: 20px;
+    justify-content: flex-end;
+}
+
+.modal{
+    padding: 80px;
+}
+
+.parent {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-content: center;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.h1Heading {
+    text-align: center;
+    margin: 20px;
+}
+
+.rechargeCardMain{
+    display: flex;
+    justify-content: center;
+}
+
+.rechargeCardChild{
+    margin-top: 10px;
+    padding: 10px 60px;
+}
+
+.tableCustom {
+    font-size: x-small;
+    font-weight: 500;
+}

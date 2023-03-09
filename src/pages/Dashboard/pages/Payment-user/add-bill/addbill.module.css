@@ -1,0 +1,37 @@
+.sideButton {
+    display: flex;
+    margin-top: 20px;
+    justify-content: flex-end;
+}
+
+.modal{
+    padding: 80px;
+}
+
+.parent {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.h1Heading {
+    text-align: center;
+    margin: 20px;
+}
+.paymentCard{
+    text-align: center;
+    padding-top: 10px;
+}
+@media only screen and (max-width: 1000px) {
+    .hideOnMobile {
+        display: none;
+     }
+  }

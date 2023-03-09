@@ -1,0 +1,19 @@
+.tableCustom {
+    font-size: x-small;
+    font-weight: 500;
+}
+.parent {
+    display: flex !important;
+    flex-direction: column !important;
+    place-items: center !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height:100%;
+    }
+    body {
+        margin: 0;
+        padding: 0;
+    }
+.h1Heading{
+    margin: 10px;
+}    

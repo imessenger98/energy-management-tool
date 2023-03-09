@@ -1,0 +1,28 @@
+.layoutMain{
+    min-height: 100vh;
+}
+.layoutSecondary {
+    height: 32px;
+    margin: 16px;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    color: aliceblue;
+    font-size: medium;
+   
+}
+.footerUI{
+    text-align: center;
+    background-color: '#fffff';
+    font-size: smaller;
+    font-weight: 500;
+    padding: 0px !important;
+}
+.footerP{
+    font-size: x-small;
+}
+.logoutButton{
+    display: flex;
+    padding: 10px;
+    justify-content: flex-end;
+}

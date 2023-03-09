@@ -1,0 +1,22 @@
+
+.addPadding {
+    padding: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    body{
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .parent {
+        display: flex !important;
+        flex-direction: column !important;
+        place-items: center !important;
+        justify-content: center !important;
+        align-items: center !important;
+        height:100%;
+    }
+  }
