@@ -9,9 +9,6 @@ Partner Panel for users to submit meter readings and pay bills using vouchers pr
 Admin Panel with graphical view of users' data usage, bill payments, and more
 Ability for admins to control the price of each energy unit, manage user accounts, and pay users' bills
 
-## Authors
-
-- MUHAMMED YAZEEN AN
 
 
 ## Tech Stack
