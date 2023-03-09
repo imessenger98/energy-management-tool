@@ -27,5 +27,3 @@ Ability for admins to control the price of each energy unit, manage user account
 ## Demo
 
   Frontend : https://igse.vercel.app (deployed in vercel)
-
-  Backend  : https://igse-backend-tloj.onrender.com (deployed on vercel)
