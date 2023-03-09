@@ -1,5 +1,5 @@
 
-# IGSE Web App 
+# Energy Management TOol (IGSE)
 IGSE Web App is a mobile-friendly web-based platform that enables users to manage their energy bills, submit meter readings, and track their energy usage over time. The platform consists of two panels - a Partner Panel and an Admin Panel.
 
 The Partner Panel allows users to submit their meter readings and pay their bills using vouchers provided by the admins. On the other hand, the Admin Panel provides admins with a graphical view of users' data usage and allows them to control the price of each energy unit, pay users' bills, and manage user accounts.
