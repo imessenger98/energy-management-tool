@@ -19,7 +19,3 @@ Ability for admins to control the price of each energy unit, manage user account
 | Back-end            | Node.js (JavaScript runtime for building server-side applications)                   |
 | Database            | MongoDB (NoSQL database for storing data as JSON-like documents)                     |
 | Package manager     | npm (Used to manage project dependencies and packages)                               |
-
-## Demo
-
-  Frontend : https://igse.vercel.app (deployed in vercel)
