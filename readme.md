@@ -26,3 +26,5 @@ Ability for admins to control the price of each energy unit, manage user account
 |-----------|----------|----------|
 | Admin     | admin@gse.in | gse@energy |
 | Partner   | yaseen@gmail.com  | gse@energy |
+
+### Note: I'm currently using a free render server, so the initial API request might take a bit longer to respond or may fail. Thanks for your patience!
